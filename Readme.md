@@ -1,4 +1,4 @@
-##Web Crawler - C# Console Application to travers through a specified domain URL and generate site map
+Web Crawler - C# Console Application to travers through a specified domain URL and generate site map
 ======================================================================================================
 The following are the step to complie and execute the program
 	1. Download code to a Windows machine 
@@ -12,7 +12,7 @@ The following are the step to complie and execute the program
 		* ExternalUrls.txt - Containing list of links to external websites
 		* StaticContent.txt - Containing list of static item on all pages.
 	
-## Next Version
+Next Version
 ======================================================================================================
 The next iternation of the application would have following 
 	1. Proper hierarchy site map
