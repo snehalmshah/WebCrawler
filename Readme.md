@@ -18,4 +18,3 @@ The next iternation of the application will have following enhancement
 * Proper hierarchy site map
 * Test cases of the methods
 * Migration of some parameters to app.config file
-====================================================================================================
